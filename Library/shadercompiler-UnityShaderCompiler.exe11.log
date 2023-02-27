@@ -1,0 +1,80 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.28f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.28f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  api=4 type=0 insize=1379 outsize=2034 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH _SPECULARHIGHLIGHTS_OFF _GLOSSYREFLECTIONS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=958 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2847 outsize=3574 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=759 outsize=791 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=759 outsize=777 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3405 outsize=22258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=1046 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13751 outsize=2218 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=2795 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=2634 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=2241 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=3375 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=3457 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=3372 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=3489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=1364 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=5039 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=5068 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=3574 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=1590 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=82071 outsize=7097 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11929 outsize=2916 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18478 outsize=13985 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=467 outsize=2137 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=958 outsize=1616 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=776 outsize=10704 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=834 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=798 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1218 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=772 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1306 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1374 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1401 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10641 outsize=1256 ok=1
+Cmd: shutdown
