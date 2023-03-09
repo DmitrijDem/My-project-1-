@@ -23,7 +23,6 @@ public class FoodCollectorSettings : MonoBehaviour
     void EnvironmentReset()
     {
         ClearObjects(GameObject.FindGameObjectsWithTag("food"));
-        ClearObjects(GameObject.FindGameObjectsWithTag("badFood"));
 
         agents = GameObject.FindGameObjectsWithTag("agent");
         listArea = FindObjectsOfType<FoodCollectorArea>();
@@ -43,7 +42,7 @@ public class FoodCollectorSettings : MonoBehaviour
         }
     }
 
-    public void Update()
+   /* public void Update()
     {
         scoreText.text = $"Score: {totalScore}";
 
@@ -55,4 +54,6 @@ public class FoodCollectorSettings : MonoBehaviour
             m_Recorder.Add("TotalScore", totalScore);
         }
     }
+
+    */
 }
